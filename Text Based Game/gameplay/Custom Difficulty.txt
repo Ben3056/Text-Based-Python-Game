@@ -1,0 +1,4 @@
+10
+Custom Weapon
+Custom Shield
+12
